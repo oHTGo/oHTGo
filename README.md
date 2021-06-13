@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1AYmQY9MNS-EYNA7lV690Fuw026TzRnxq">
+  <img src="https://media.giphy.com/media/eQzCRDb1JdIteFdXmb/giphy.gif">
 </h1>
 
 <p align="center" style="opacity: 0.1;">
