@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Nhật Huy</h1>
 <h3 align="center">A student FPTU</h3>
+<img src"https://media.giphy.com/media/JZb27qeFflR782iT2m/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
