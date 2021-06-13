@@ -2,7 +2,7 @@
 <h3 align="center">A student FPTU</h3>
 
 <p align="center" style="opacity: 0.1;">
-<img src="https://media.giphy.com/media/JZb27qeFflR782iT2m/giphy.gif">
+<img src="https://media.giphy.com/media/CzgboutKD4KpN5HnNS/giphy.gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
