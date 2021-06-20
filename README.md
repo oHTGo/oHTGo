@@ -8,6 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyennhathuy.orit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40" /></a>
-<a href="https://instagram.com/_n.huy.n_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_n.huy.n_" height="30" width="40" /></a>
+<a href="https://fb.com/nguyennhathuy.orit" target="blank"><img align="center" src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40" /></a>
+<a href="https://instagram.com/_n.huy.n_" target="blank"><img align="center" src="./images/instagram.svg" alt="_n.huy.n_" height="30" width="40" /></a>
 </p>
