@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/eQzCRDb1JdIteFdXmb/giphy.gif">
 </h1>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/zrNwNxaUOVaibJzjWa/giphy.gif">
+</h1>
+
 <p align="center" style="opacity: 0.1;">
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
+<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="50">
 </p>
 
 <h3 align="left">Connect with me:</h3>
