@@ -17,7 +17,7 @@ jobs:
           github_user_name: oHTGo
           svg_out_path: dist/snake.svg
       # Deploy to GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@latest
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           # Don't Run this workflow on your default branch
           target_branch: snake
