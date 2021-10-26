@@ -10,9 +10,8 @@
   <img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="50">
 </p>
 
-<!-- Github Activity -->
-<h3>Github Activity <img src="./images/stats.gif" height="35px"></h3>
-<hr>
+<!-- GitHub Activity -->
+<h2>GitHub Activity <img src="./images/github-stats.gif" height="35px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -32,10 +31,19 @@
 </details>
 <br/>
 
+<!-- Wakatime Stats -->
+<h2>Wakatime Stats <img src="./images/wakatime-stats.gif" height="35px"></h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br/>
+
 <!-- Connection -->
-<h3> Connect with me <img src="./images/handshake.gif" height="35px"></h3>
-<hr>
-<p align="left">
-  <a href="https://fb.com/nguyennhathuy.orit" target="blank"><img align="center" src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40" /></a>
-  <a href="https://instagram.com/_n.huy.n_" target="blank"><img align="center" src="./images/instagram.svg" alt="_n.huy.n_" height="30" width="40" /></a>
+<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
+<p align="center">
+  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
+    <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
+  </a>
+  <a href="https://instagram.com/_n.huy.n_" target="_blank">
+    <code><img src="./images/instagram.svg" alt="_n.huy.n_" height="30" width="40"/></code>
+  </a>
 </p>
