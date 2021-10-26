@@ -1,6 +1,7 @@
 <!-- Header -->
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
+  <br>
   Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
@@ -10,7 +11,7 @@
 </p>
 
 <!-- Github Activity -->
-<h2>Github Activity <img src="./images/stats.gif" height="35px"></h2>
+<h3>Github Activity <img src="./images/stats.gif" height="35px"></h3>
 <hr>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -32,7 +33,7 @@
 <br/>
 
 <!-- Connection -->
-<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
+<h3> Connect with me <img src="./images/handshake.gif" height="35px"></h3>
 <hr>
 <p align="left">
   <a href="https://fb.com/nguyennhathuy.orit" target="blank"><img align="center" src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40" /></a>
