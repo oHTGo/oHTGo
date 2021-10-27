@@ -5,37 +5,33 @@
   Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
-<!-- Counter and Signal -->
+<!-- Counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="25px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false">
-  •
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" height="25px" src="https://img.shields.io/github/followers/oHTGo?color=%23579E91&label=Followers&style=flat">
+  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
 <!-- My Activity -->
 <h2>My Activity <img src="./images/github-stats.gif" height="35px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
+  <br>
   <p align="center">
     <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" height="192px"/>
-    <br/>
+    <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
-    <br/>
+    <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
-  <br/>
+  <br>
   <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
-  <br/>
+  <br>
 </details>
 <details> 
   <summary><b>📊 Wakatime Stats</b></summary>
-  <br/>
+  <br>
 <!--START_SECTION:waka-->
 **I'm a Night 🦉**
 
@@ -88,7 +84,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </details>
-<br/>
 
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
@@ -99,4 +94,11 @@ CSS                      1 repo              ██░░░░░░░░░�
   <a href="https://instagram.com/_n.huy.n_" target="_blank">
     <code><img src="./images/instagram.svg" alt="_n.huy.n_" height="30" width="40"/></code>
   </a>
+</p>
+
+<!-- Signal -->
+<p align="right">
+  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
+  <br>
+  <em>Lil Huy</em>
 </p>
