@@ -32,6 +32,7 @@
 <details> 
   <summary><b>📊 Wakatime Stats</b></summary>
   <br>
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉**
 
