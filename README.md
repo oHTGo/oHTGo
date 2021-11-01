@@ -84,8 +84,8 @@ VS Code                  25 hrs 11 mins      ███████████�
   <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
     <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
-  <a href="https://instagram.com/_n.huy.n_" target="_blank">
-    <code><img src="./images/instagram.svg" alt="_n.huy.n_" height="30" width="40"/></code>
+  <a href="https://instagram.com/_.lil.huy._" target="_blank">
+    <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
 
