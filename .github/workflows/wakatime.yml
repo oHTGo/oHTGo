@@ -26,5 +26,5 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          LOCALE: "True"
           SHOW_UPDATED_DATE: "False"
+          COMMIT_MESSAGE: "Update Wakatime"
