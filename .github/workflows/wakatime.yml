@@ -28,3 +28,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           COMMIT_MESSAGE: "Update Wakatime"
+          SHOW_TOTAL_CODE_TIME: "True"
