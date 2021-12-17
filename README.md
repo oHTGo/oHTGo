@@ -12,7 +12,7 @@
 
 <!-- Dragon -->
 <p align="center">
-  <img alt="Dragon" height="100px" src="./images/dragon.png">
+  <img alt="Dragon" height="300px" src="./images/dragon.png">
 </p>
 
 <!-- My Activity -->
