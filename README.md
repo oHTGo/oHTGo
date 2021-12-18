@@ -11,9 +11,9 @@
 </p>
 
 <!-- Dragon -->
-<p align="center">
+<!-- <p align="center">
   <img alt="Dragon" height="300px" src="./images/dragon.png">
-</p>
+</p> -->
 
 <!-- My Activity -->
 <h2>My Activity <img src="./images/github-stats.gif" height="35px"></h2>
