@@ -26,9 +26,9 @@
 
 <h2>Tech stack</h2>
 
-**Frontend**
-
 <p align="center">
+  <b>Frontend</b>
+  <br>
   <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
   <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
   <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
@@ -39,9 +39,9 @@
   <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
 </p>
 
-**Backend**
-
 <p align="center">
+  <b>Backend</b>
+  <br>
   <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
   <br>
   <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
