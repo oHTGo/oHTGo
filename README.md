@@ -26,12 +26,27 @@
 
 <h2>Tech stack</h2>
 
-- Frontend
+**Frontend**
+
 <p align="center">
   <code><img src="./images/html.svg" alt="HTML" height="30"/></code>
   <code><img src="./images/css.svg" alt="CSS" height="30"/></code>
   <code><img src="./images/javascript.svg" alt="JavaScript" height="30"/></code>
   <code><img src="./images/typescript.svg" alt="TypeScript" height="30"/></code>
+  <br>
+  <code><img src="./images/react.svg" alt="ReactJS" height="30"/></code>
+  <code><img src="./images/preact.svg" alt="PreactJS" height="30"/></code>
+  <code><img src="./images/next.svg" alt="NextJS" height="30"/></code>
+</p>
+
+**Backend**
+
+<p align="center">
+  <code><img src="./images/node.svg" alt="NodeJS" height="30"/></code>
+  <br>
+  <code><img src="./images/express.svg" alt="ExpressJS" height="30"/></code>
+  <code><img src="./images/nest.svg" alt="NestJS" height="30"/></code>
+  <code><img src="./images/spring.svg" alt="Spring" height="30"/></code>
 </p>
 
 <!-- My Activity -->
