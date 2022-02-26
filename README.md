@@ -24,11 +24,15 @@
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<br>
-<!-- Dragon -->
-<!-- <p align="center">
-  <img alt="Dragon" height="300px" src="./images/dragon.png">
-</p> -->
+<h2>Tech stack</h2>
+
+- Frontend
+<p align="center">
+  <code><img src="./images/html.svg" alt="HTML" width="40"/></code>
+  <code><img src="./images/css.svg" alt="CSS" width="40"/></code>
+  <code><img src="./images/javascript.svg" alt="JavaScript" width="40"/></code>
+  <code><img src="./images/typescript.svg" alt="TypeScript" width="40"/></code>
+</p>
 
 <!-- My Activity -->
 <h2>My Activity <img src="./images/github-stats.gif" height="35px"></h2>
