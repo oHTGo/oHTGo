@@ -24,8 +24,8 @@
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<h2>Tech stack</h2>
-
+<!-- Tech stack -->
+<h2>Tech stack 🔭</h2>
 <p align="center">
   <b>Languages</b>
   <br>
@@ -137,8 +137,8 @@
   </a>
 </p>
 
-<!-- My Activity -->
-<h2>My Activity <img src="./images/github-stats.gif" height="35px"></h2>
+<!-- My activity -->
+<h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
