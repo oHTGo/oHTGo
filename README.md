@@ -27,6 +27,30 @@
 <h2>Tech stack</h2>
 
 <p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <code><img src="./images/c.svg" alt="C" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
+  </a>
+  <a href="https://go.dev" target="_blank">
+    <code><img src="./images/golang.svg" alt="Golang" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
   <b>Frontend</b>
   <br>
   <br>
@@ -98,6 +122,18 @@
   </a>
   <a href="https://pm2.keymetrics.io" target="_blank">
     <code><img src="./images/pm2.svg" alt="PM2" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>Other</b>
+  <br>
+  <br>
+  <a href="https://www.electronjs.org" target="_blank">
+    <code><img src="./images/electron.svg" alt="ElectronJS" height="40"/></code>
   </a>
 </p>
 
