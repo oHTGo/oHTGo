@@ -30,25 +30,75 @@
   <b>Frontend</b>
   <br>
   <br>
-  <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
-  <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
-  <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
-  <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
+  </a>
   <br>
-  <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
-  <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
-  <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
+  <a href="https://reactjs.org" target="_blank">
+    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
+  </a>
+  <a href="https://preactjs.com" target="_blank">
+    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
+  </a>
 </p>
+
+<br>
+<br>
 
 <p align="center">
   <b>Backend</b>
   <br>
   <br>
-  <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
   <br>
-  <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
-  <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
-  <code><img src="./images/spring.svg" alt="Spring" height="40"/></code>
+  <a href="https://expressjs.com" target="_blank">
+    <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
+  </a>
+  <a href="https://spring.io" target="_blank">
+    <code><img src="./images/spring.svg" alt="Spring" height="40"/></code>
+  </a>
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <b>System & DevOps</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+    <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+    <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://docker.com" target="_blank">
+    <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
+  </a>
+  <a href="https://pm2.keymetrics.io" target="_blank">
+    <code><img src="./images/pm2.svg" alt="PM2" height="40"/></code>
+  </a>
 </p>
 
 <!-- My Activity -->
