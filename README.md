@@ -28,10 +28,10 @@
 
 - Frontend
 <p align="center">
-  <code><img src="./images/html.svg" alt="HTML" width="40"/></code>
-  <code><img src="./images/css.svg" alt="CSS" width="40"/></code>
-  <code><img src="./images/javascript.svg" alt="JavaScript" width="40"/></code>
-  <code><img src="./images/typescript.svg" alt="TypeScript" width="40"/></code>
+  <code><img src="./images/html.svg" alt="HTML" height="30"/></code>
+  <code><img src="./images/css.svg" alt="CSS" height="30"/></code>
+  <code><img src="./images/javascript.svg" alt="JavaScript" height="30"/></code>
+  <code><img src="./images/typescript.svg" alt="TypeScript" height="30"/></code>
 </p>
 
 <!-- My Activity -->
