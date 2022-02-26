@@ -29,6 +29,7 @@
 <p align="center">
   <b>Frontend</b>
   <br>
+  <br>
   <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
   <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
   <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
@@ -41,6 +42,7 @@
 
 <p align="center">
   <b>Backend</b>
+  <br>
   <br>
   <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
   <br>
