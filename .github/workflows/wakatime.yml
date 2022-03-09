@@ -29,3 +29,4 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           COMMIT_MESSAGE: "Update Wakatime"
           SHOW_TOTAL_CODE_TIME: "True"
+          SYMBOL_VERSION: "2"
