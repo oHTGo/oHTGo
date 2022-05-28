@@ -171,7 +171,7 @@
 <!-- My activity -->
 <h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Profile Stats</b></summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
