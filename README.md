@@ -250,17 +250,10 @@ VS Code                  2 hrs 7 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
+  <a href="https://s.ohtgo.me/facebook" target="_blank">
     <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
+  <a href="https://s.ohtgo.me/instagram" target="_blank">
     <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
-</p>
-
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  <br>
-  <em>Lil Huy</em>
 </p>
