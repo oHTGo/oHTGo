@@ -10,16 +10,15 @@ jobs:
     name: Jobs to update snake grid
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: oHTGo
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/snake.svg
-      # Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_PROFILE_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          # Don't Run this workflow on your default branch
           target_branch: snake
           commit_message: Update snake
           build_dir: dist
