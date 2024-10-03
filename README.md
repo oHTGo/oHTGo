@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
+  Hi, I'm Nguyễn Nhật Huy - aka oHTGo <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
