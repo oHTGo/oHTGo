@@ -5,11 +5,6 @@
   Hi, I'm Nguyễn Nhật Huy - aka oHTGo <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
-<!-- Counter -->
-<p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
-</p>
-
 <p align="center">
   <b>I'm a passionate programmer who loves to code</b>
 </p>
